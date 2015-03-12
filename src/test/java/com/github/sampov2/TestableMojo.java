@@ -1,4 +1,4 @@
-package org.dstovall;
+package com.github.sampov2;
 
 import java.io.File;
 import java.io.IOException;
@@ -12,6 +12,8 @@ import org.apache.maven.project.MavenProject;
 import org.apache.maven.project.MavenProjectHelper;
 import org.codehaus.plexus.util.ReflectionUtils;
 import org.junit.Ignore;
+
+import com.github.sampov2.OneJarMojo;
 
 /**
  * Convenient testing variation of the one-jar mojo.

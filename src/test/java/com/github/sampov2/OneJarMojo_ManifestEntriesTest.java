@@ -1,4 +1,4 @@
-package org.dstovall;
+package com.github.sampov2;
 
 import java.util.HashMap;
 

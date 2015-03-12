@@ -1,4 +1,4 @@
-package org.dstovall;
+package com.github.sampov2;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.maven.artifact.Artifact;
