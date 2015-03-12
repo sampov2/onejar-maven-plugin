@@ -36,5 +36,12 @@ The fork packages a patched one-jar 0.97 from [iceberg901](https://github.com/ic
 			</plugin>
 		</plugins>
 	</build>
+	
+	<pluginRepositories>
+		<pluginRepository>
+			<id>com.github.sampov2.onejar-maven-plugin</id>
+			<url>http://maven.codeforcode.com/repository</url>
+		</pluginRepository>
+	</pluginRepositories>
 	...
 
