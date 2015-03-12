@@ -99,7 +99,7 @@ public class OneJarMojo extends AbstractMojo {
     /**
      * The version of one-jar to use.  Has a default, so typically no need to specify this.
      *
-     * @parameter expression="${onejar-version}" default-value="0.97"
+     * @parameter expression="${onejar-version}" default-value="0.97-patched"
      */
     private String onejarVersion;
 
